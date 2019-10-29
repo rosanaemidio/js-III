@@ -1,0 +1,15 @@
+{
+  "data": [{
+      "nome": "Cíntia Fumi",
+      "imagem": "./img/cintiafumi.jpeg"
+    },
+    {
+      "nome": "Joseline Corrêa",
+      "imagem": "./img/joseline.jpeg"
+    },
+    {
+      "nome": "Mellina Yonashiro",
+      "imagem": "./img/mellina.jpeg"
+    }
+  ]
+}
